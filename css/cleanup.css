@@ -16,4 +16,6 @@ body #wall #tag-2 {
   display: none;
 }
 
-#wall .parent #tag-5.
+#wall .parent #tag-5.slcik {
+  display: none;
+}
